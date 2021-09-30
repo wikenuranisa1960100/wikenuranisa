@@ -1,0 +1,19 @@
+h1{
+    color:aquamarine;
+    font-size:20px;
+}
+h1{
+    font-family:serif;
+}
+h1{
+    width:500px;
+    height:80px;
+    background-color:bisque;
+}
+img{
+    width:500px;
+    height:100px;
+}
+.selected{
+    color:blueviolet;
+}
